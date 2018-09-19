@@ -1,5 +1,5 @@
 {
-  "name": "react-date-selector",
+  "name": "react-date-chooser",
   "version": "0.0.1",
   "description": "Simple, reusable, minimum bundle size - date selector component for React",
   "license": "MIT",
